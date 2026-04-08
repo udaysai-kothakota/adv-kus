@@ -1,7 +1,7 @@
 # My Project 
 This is my portfolio website
 ## project Link
- https://github.com/udaysai-kothakota/adv-kus
+https://roadmap.sh/projects/portfolio-website
  ## Features
  - Responsive Design
  - Clean UI
